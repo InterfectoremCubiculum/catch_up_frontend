@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Table, Alert, Spinner, Button, Modal } from 'react-bootstrap';
+import { Table, Button, Modal } from 'react-bootstrap';
 import 'bootstrap-icons/font/bootstrap-icons.css';
 import NewbieMentorService from '../../services/newbieMentorService';
 import { UserDto } from '../../dtos/UserDto';
@@ -13,7 +13,7 @@ const AssignNewbieToMentorComponent: React.FC = () => {
   const [selectedMentorSurname, setSelectedMentorSurname] = useState<string | null>(null);
   const [assignedNewbies, setAssignedNewbies] = useState<UserDto[]>([]);
   const [loading, setLoading] = useState<boolean>(true);
-  const [error, setError] = useState<string>('');
+  const [, setError] = useState<string>('');
   const [unassignedNewbies, setUnassignedNewbies] = useState<UserDto[]>([]);
   const [showModal, setShowModal] = useState<boolean>(false);
   const [deletingNewbieId, setDeletingNewbieId] = useState<string | null>(null);
@@ -79,7 +79,7 @@ const AssignNewbieToMentorComponent: React.FC = () => {
   };
 
   const fetchAssignedNewbies = async (mentorId: string) => {
-    //setLoading(true);
+    // setLoading(true);
     setError('');
     try {
       const newbies = await NewbieMentorService.getAssignmentsByMentor(mentorId);
@@ -88,7 +88,7 @@ const AssignNewbieToMentorComponent: React.FC = () => {
       setError(error.message || 'An error occurred while fetching assigned newbies');
       setAssignedNewbies([]);
     } finally {
-      //setLoading(false);
+      // setLoading(false);
     }
   };
 
