@@ -60,7 +60,7 @@ const AssignMentorToNewbieComponent: React.FC = () => {
   }, []);
 
   const fetchNewbies = async () => {
-   // setLoading(true);
+    setLoading(true);
     setError('');
     try {
       const newbies = await NewbieMentorService.getAllNewbies();
