@@ -47,6 +47,7 @@ The complete system also includes:
 - js-cookie
 - [i18next](https://www.i18next.com/) - For internationalization and localization support.
 - LocalStorage
+- [Confetti](https://www.npmjs.com/package/react-confetti) 🎉
 
 
 ## User management
