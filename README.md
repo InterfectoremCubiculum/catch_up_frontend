@@ -49,7 +49,6 @@ The complete system also includes:
 - LocalStorage
 - [Confetti](https://www.npmjs.com/package/react-confetti) 🎉
 
-
 ## User management
 AuthProvider.tsx is a React Context Provider that manages user authentication, including access tokens, refresh tokens, user details, roles, and avatars. It provides a centralized way to handle authentication across the application using React Context API, Redux, Axios, Cookies, and LocalStorage.
 
