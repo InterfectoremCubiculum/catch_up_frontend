@@ -10,8 +10,8 @@ The complete system also includes:
   
 
 ## Features
-- [Application preview](##Application_preview)
-- [Authentication and User managment](##User_management)
+- [Application preview](#application-preview)
+- [Authentication and User managment](#user-management)
 - [Task Management]
 - [Roadmap Management]
 - [Schooling Management]
