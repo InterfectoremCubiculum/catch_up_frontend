@@ -37,12 +37,15 @@ The complete system also includes:
 - React
 - TypeScript
 - Vite
+- React Router
+- [React-Bootstrap](https://react-bootstrap.netlify.app/)
 - [Bootstrap](https://getbootstrap.com/)
 - [DnD Kit](https://dndkit.com/)
 - [Redux Toolkit](https://redux-toolkit.js.org/)
 - React Context APi
 - Axios
 - js-cookie
+- [i18next](https://www.i18next.com/) - For internationalization and localization support.
 - LocalStorage
 
 
