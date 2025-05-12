@@ -195,3 +195,7 @@ Wrapping the App with AuthProvider
 </AuthProvider>
 ```
 </details>
+
+#### In Progress
+1 vs 6 solo doing read me :(
+<img src="https://github.com/user-attachments/assets/1489816f-b51c-47af-97a9-f524f746e321">
