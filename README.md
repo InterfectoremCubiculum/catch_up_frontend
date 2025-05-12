@@ -199,6 +199,16 @@ Wrapping the App with AuthProvider
 #### In Progress
 1 vs 6 solo doing read me :(
 <img src="https://github.com/user-attachments/assets/1489816f-b51c-47af-97a9-f524f746e321">
-me and my boys
-<img src="https://github.com/user-attachments/assets/2cd80f08-1f67-4eb5-a426-eb2254519a53">
+<details>
+<summary>POV: you are in the cinema and suddenly you have scenes after the credits</summary>
+  me and my boys
+  <img src="https://github.com/user-attachments/assets/2cd80f08-1f67-4eb5-a426-eb2254519a53">
+  <img src="https://github.com/user-attachments/assets/fc76e6ef-cb67-4924-902d-e1131ed0c1d1">
+  <img src="https://github.com/user-attachments/assets/50f17ad4-2714-4599-9cda-48235623b9a6">
+  <img src="https://github.com/user-attachments/assets/6d7024b9-c9c2-4880-a552-cb0e69afbc61">
+  <img src="https://github.com/user-attachments/assets/be4af822-cd41-4213-986f-e9e196174c6b">
+  <img src="https://github.com/user-attachments/assets/9653b2e4-362e-4733-9d8d-3070b296840d">
+  <img src="https://github.com/user-attachments/assets/722f5bd0-df1c-43a7-8688-8d8dd1a7c3f3">
+
+</details>
 
