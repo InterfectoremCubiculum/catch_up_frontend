@@ -199,3 +199,6 @@ Wrapping the App with AuthProvider
 #### In Progress
 1 vs 6 solo doing read me :(
 <img src="https://github.com/user-attachments/assets/1489816f-b51c-47af-97a9-f524f746e321">
+me and my boys
+<img src="https://github.com/user-attachments/assets/2cd80f08-1f67-4eb5-a426-eb2254519a53">
+
