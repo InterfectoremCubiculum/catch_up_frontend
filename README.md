@@ -27,6 +27,40 @@ The complete system also includes:
 ## Application preview
 <details>
 <summary>See more</summary>
+  
+  ### Home (Admin Panel)
+  <img src="https://github.com/user-attachments/assets/dab24a40-dc9f-4aa9-9eba-1cce05cadbef">
+
+  ### Notifications
+  <img src="https://github.com/user-attachments/assets/4373ede2-3153-4fe8-b6c3-dceef743e5d1">
+  <img src="https://github.com/user-attachments/assets/8e6683e4-e82d-4baf-828e-30ed8c7db178">
+  <img src="https://github.com/user-attachments/assets/8d2279a2-1238-4cfa-b012-8df1a44bda28">
+  <img src="https://github.com/user-attachments/assets/68a201b4-b0e5-43b2-9a67-d089121aeb8a">
+
+  ### Task Manager
+  <img src="https://github.com/user-attachments/assets/8738c25f-6400-4e57-a0a3-210d3bc9f88d">
+
+  ### Road Maps
+  <img src="https://github.com/user-attachments/assets/49be814c-c59b-4997-8678-e5a45b2d6269">
+  <img src="https://github.com/user-attachments/assets/9ef307cc-ec2d-45d6-8b63-17d6aa367072">
+
+  ### Setting
+  <img src="https://github.com/user-attachments/assets/f86aa658-0822-4549-863a-ffdd2dcba03c">
+
+  ### AI assistant
+  <img src="https://github.com/user-attachments/assets/6eec3d3d-3a28-487d-9513-246b158097f1">
+
+  ### Feedbacks
+  <img src="https://github.com/user-attachments/assets/df66c747-b36c-42ce-9815-f2c64c09d6a7">
+  <img src="https://github.com/user-attachments/assets/3289e350-3780-47e4-91e5-1de559781b13">
+
+  ### FAQ
+  <img src="https://github.com/user-attachments/assets/240e12be-f977-45d7-8201-65ab9c6d744d">
+
+  ### Material Management
+  <img src="https://github.com/user-attachments/assets/fc527fd4-14f2-4783-8a91-4607df632cf2">
+  <img src="https://github.com/user-attachments/assets/1ec5a7db-6855-49ab-bd2d-098d5da6e46b">
+  <img src="https://github.com/user-attachments/assets/e4d1b23b-3253-423b-abda-cb84ede5050f">
 
 </details>
 
